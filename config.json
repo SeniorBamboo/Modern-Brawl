@@ -1,5 +1,5 @@
 {
-  "MongoConnectionURL": "",
+  "MongoConnectionURL": "mongodb://GB2:Moldova123@gift2-shard-00-00.a1ur8.mongodb.net:27017,gift2-shard-00-01.a1ur8.mongodb.net:27017,gift2-shard-00-02.a1ur8.mongodb.net:27017/GB2?ssl=true&replicaSet=atlas-a6puse-shard-0&authSource=admin&retryWrites=true&w=majority",
 
   "StarPoints": 5000,
   "Tickets": 7000,
